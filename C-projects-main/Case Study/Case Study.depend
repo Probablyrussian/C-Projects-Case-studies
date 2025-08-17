@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682066908 source:d:\codes\case study\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+

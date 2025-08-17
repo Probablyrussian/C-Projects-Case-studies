@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682412288 source:d:\codes\online attendance\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+

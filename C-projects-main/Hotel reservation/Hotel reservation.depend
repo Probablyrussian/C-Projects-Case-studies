@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682046629 source:d:\codes\hotel reservation\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+
